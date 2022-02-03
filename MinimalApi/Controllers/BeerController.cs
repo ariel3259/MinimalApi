@@ -40,7 +40,6 @@ namespace MinimalApi.Controllers
 
         public async Task<object> DeleteBeer(int id)
         {
-            //id is a query parameter
 
             Beer beer = await context.Beers.FindAsync(id);
 

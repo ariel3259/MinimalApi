@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "qmhC2xMrnbGSzfMPsKYu+gl7SU994lMNfgWPVniSQvk=",
-  "Source": "BeerApi",
-  "BasePath": "_content/BeerApi",
+  "Hash": "YAyF+gWo1OPGZ/QTNg1lvAk6S24tWLCwfC1pptHJreU=",
+  "Source": "MinimalApi",
+  "BasePath": "_content/MinimalApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
