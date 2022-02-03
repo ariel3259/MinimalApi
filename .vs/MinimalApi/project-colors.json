@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "87e365ab-6b30-4675-bd55-b4930e65ad30": {
+      "ProjectGuid": "87e365ab-6b30-4675-bd55-b4930e65ad30",
+      "DisplayName": "MinimalApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
